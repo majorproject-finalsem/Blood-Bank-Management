@@ -1,0 +1,64 @@
+#full{
+	width: 100%;
+	height: auto;
+}
+#inner_full{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+#header{
+	width: 100%;
+	height: 60px;
+	background-color: red;
+	color: white;
+}
+#body{
+	width: 100%;
+	height: 600px;
+}
+.footer{
+	width: 100%;
+	height: 60px;
+	background-color: red;
+	color: white;
+}
+ul li{
+	width: 20%;
+	height: 50px;
+	line-height: 50px;
+	margin-left: 110px;
+	background: red;
+	color: white;
+	float: left;
+	border-radius: 10px;
+	list-style: none;
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+#ngo_session{
+	width: 100%;
+}
+#dr-form{
+	width: 80%;
+	height: 300px;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+	overflow: hidden;
+	overflow-y: scroll;
+}
+#body-sbl{
+	width: 100%;
+	height: 600px;
+}
+#dr-form-sbl{
+	width: 80%;
+	height: 400px;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+}
