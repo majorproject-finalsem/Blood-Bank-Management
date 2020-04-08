@@ -65,6 +65,7 @@ session_start();
 								else
 								{
 									echo $a_pos;
+									echo 0;
 								}
 								?>
 							</b></center></td>
